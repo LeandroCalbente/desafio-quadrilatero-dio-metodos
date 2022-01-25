@@ -11,7 +11,7 @@ public class Quadrilatero {
 	
 	public static void area(double lado1, double lado2) {
 		
-		System.out.println("Área do retâgulo: " + lado1 * lado2);
+		System.out.println("Área do retângulo: " + lado1 * lado2);
 		
 		
 	}
